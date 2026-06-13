@@ -1,0 +1,1202 @@
+[
+  {
+    "word": "一",
+    "pinyin": "yī",
+    "english_definition": "one",
+    "frequency_rank": "1",
+    "mastery": 2,
+    "learning_need_score": 2
+  },
+  {
+    "word": "在",
+    "pinyin": "zài",
+    "english_definition": "(located) at",
+    "frequency_rank": "2",
+    "mastery": 2,
+    "learning_need_score": 4
+  },
+  {
+    "word": "是",
+    "pinyin": "shì",
+    "english_definition": "is",
+    "frequency_rank": "3",
+    "mastery": 2,
+    "learning_need_score": 6
+  },
+  {
+    "word": "有",
+    "pinyin": "yǒu",
+    "english_definition": "to have",
+    "frequency_rank": "4",
+    "mastery": 2,
+    "learning_need_score": 8
+  },
+  {
+    "word": "个",
+    "pinyin": "gè",
+    "english_definition": "variant of 個|个[gè]",
+    "frequency_rank": "5",
+    "mastery": 2,
+    "learning_need_score": 10
+  },
+  {
+    "word": "我",
+    "pinyin": "wǒ",
+    "english_definition": "I",
+    "frequency_rank": "6",
+    "mastery": 2,
+    "learning_need_score": 12
+  },
+  {
+    "word": "不",
+    "pinyin": "bù",
+    "english_definition": "(negative prefix)",
+    "frequency_rank": "7",
+    "mastery": 2,
+    "learning_need_score": 14
+  },
+  {
+    "word": "这",
+    "pinyin": "zhè",
+    "english_definition": "this",
+    "frequency_rank": "8",
+    "mastery": 2,
+    "learning_need_score": 16
+  },
+  {
+    "word": "他",
+    "pinyin": "tā",
+    "english_definition": "he or him",
+    "frequency_rank": "9",
+    "mastery": 2,
+    "learning_need_score": 18
+  },
+  {
+    "word": "人",
+    "pinyin": "rén",
+    "english_definition": "man",
+    "frequency_rank": "10",
+    "mastery": 2,
+    "learning_need_score": 20
+  },
+  {
+    "word": "都",
+    "pinyin": "dōu",
+    "english_definition": "all",
+    "frequency_rank": "11",
+    "mastery": 2,
+    "learning_need_score": 22
+  },
+  {
+    "word": "你",
+    "pinyin": "nǐ",
+    "english_definition": "you (informal",
+    "frequency_rank": "12",
+    "mastery": 2,
+    "learning_need_score": 24
+  },
+  {
+    "word": "我们",
+    "pinyin": "wǒ men",
+    "english_definition": "we",
+    "frequency_rank": "13",
+    "mastery": 2,
+    "learning_need_score": 26
+  },
+  {
+    "word": "了",
+    "pinyin": "le",
+    "english_definition": "(modal particle intensifying preceding clause)",
+    "frequency_rank": "14",
+    "mastery": 2,
+    "learning_need_score": 28
+  },
+  {
+    "word": "会",
+    "pinyin": "huì",
+    "english_definition": "can",
+    "frequency_rank": "15",
+    "mastery": 2,
+    "learning_need_score": 30
+  },
+  {
+    "word": "和",
+    "pinyin": "hé",
+    "english_definition": "and",
+    "frequency_rank": "16",
+    "mastery": 2,
+    "learning_need_score": 32
+  },
+  {
+    "word": "很",
+    "pinyin": "hěn",
+    "english_definition": "(adverb of degree)",
+    "frequency_rank": "17",
+    "mastery": 2,
+    "learning_need_score": 34
+  },
+  {
+    "word": "的",
+    "pinyin": "de",
+    "english_definition": "of",
+    "frequency_rank": "18",
+    "mastery": 2,
+    "learning_need_score": 36
+  },
+  {
+    "word": "大",
+    "pinyin": "dà",
+    "english_definition": "big",
+    "frequency_rank": "19",
+    "mastery": 2,
+    "learning_need_score": 38
+  },
+  {
+    "word": "能",
+    "pinyin": "néng",
+    "english_definition": "to be able to",
+    "frequency_rank": "20",
+    "mastery": 2,
+    "learning_need_score": 40
+  },
+  {
+    "word": "她",
+    "pinyin": "tā",
+    "english_definition": "she",
+    "frequency_rank": "21",
+    "mastery": 2,
+    "learning_need_score": 42
+  },
+  {
+    "word": "现在",
+    "pinyin": "xiàn zài",
+    "english_definition": "now",
+    "frequency_rank": "22",
+    "mastery": 2,
+    "learning_need_score": 44
+  },
+  {
+    "word": "那",
+    "pinyin": "nà",
+    "english_definition": "that",
+    "frequency_rank": "23",
+    "mastery": 2,
+    "learning_need_score": 46
+  },
+  {
+    "word": "上",
+    "pinyin": "shàng",
+    "english_definition": "on top",
+    "frequency_rank": "24",
+    "mastery": 2,
+    "learning_need_score": 48
+  },
+  {
+    "word": "年",
+    "pinyin": "nián",
+    "english_definition": "year",
+    "frequency_rank": "25",
+    "mastery": 2,
+    "learning_need_score": 50
+  },
+  {
+    "word": "来",
+    "pinyin": "lái",
+    "english_definition": "to come",
+    "frequency_rank": "26",
+    "mastery": 2,
+    "learning_need_score": 52
+  },
+  {
+    "word": "好",
+    "pinyin": "hǎo",
+    "english_definition": "good",
+    "frequency_rank": "27",
+    "mastery": 2,
+    "learning_need_score": 54
+  },
+  {
+    "word": "三",
+    "pinyin": "sān",
+    "english_definition": "three",
+    "frequency_rank": "28",
+    "mastery": 2,
+    "learning_need_score": 56
+  },
+  {
+    "word": "什么",
+    "pinyin": "shén me",
+    "english_definition": "what?",
+    "frequency_rank": "29",
+    "mastery": 2,
+    "learning_need_score": 58
+  },
+  {
+    "word": "做",
+    "pinyin": "zuò",
+    "english_definition": "to do",
+    "frequency_rank": "30",
+    "mastery": 2,
+    "learning_need_score": 60
+  },
+  {
+    "word": "想",
+    "pinyin": "xiǎng",
+    "english_definition": "to think",
+    "frequency_rank": "31",
+    "mastery": 2,
+    "learning_need_score": 62
+  },
+  {
+    "word": "去",
+    "pinyin": "qù",
+    "english_definition": "to go",
+    "frequency_rank": "32",
+    "mastery": 2,
+    "learning_need_score": 64
+  },
+  {
+    "word": "呢",
+    "pinyin": "ne",
+    "english_definition": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\"",
+    "frequency_rank": "33",
+    "mastery": 2,
+    "learning_need_score": 66
+  },
+  {
+    "word": "学生",
+    "pinyin": "xué sheng",
+    "english_definition": "student",
+    "frequency_rank": "34",
+    "mastery": 2,
+    "learning_need_score": 68
+  },
+  {
+    "word": "看",
+    "pinyin": "kàn",
+    "english_definition": "to see",
+    "frequency_rank": "35",
+    "mastery": 2,
+    "learning_need_score": 70
+  },
+  {
+    "word": "小",
+    "pinyin": "xiǎo",
+    "english_definition": "small",
+    "frequency_rank": "36",
+    "mastery": 2,
+    "learning_need_score": 72
+  },
+  {
+    "word": "工作",
+    "pinyin": "gōng zuò",
+    "english_definition": "to work",
+    "frequency_rank": "37",
+    "mastery": 2,
+    "learning_need_score": 74
+  },
+  {
+    "word": "里",
+    "pinyin": "lǐ",
+    "english_definition": "li (Chinese mile)",
+    "frequency_rank": "38",
+    "mastery": 2,
+    "learning_need_score": 76
+  },
+  {
+    "word": "时候",
+    "pinyin": "shí hou",
+    "english_definition": "time",
+    "frequency_rank": "39",
+    "mastery": 2,
+    "learning_need_score": 78
+  },
+  {
+    "word": "中国",
+    "pinyin": "Zhōng guó",
+    "english_definition": "China",
+    "frequency_rank": "40",
+    "mastery": 2,
+    "learning_need_score": 80
+  },
+  {
+    "word": "几",
+    "pinyin": "jǐ",
+    "english_definition": "how much",
+    "frequency_rank": "41",
+    "mastery": 2,
+    "learning_need_score": 82
+  },
+  {
+    "word": "本",
+    "pinyin": "běn",
+    "english_definition": "roots or stems of plants",
+    "frequency_rank": "42",
+    "mastery": 2,
+    "learning_need_score": 84
+  },
+  {
+    "word": "二",
+    "pinyin": "èr",
+    "english_definition": "two",
+    "frequency_rank": "43",
+    "mastery": 2,
+    "learning_need_score": 86
+  },
+  {
+    "word": "四",
+    "pinyin": "sì",
+    "english_definition": "four",
+    "frequency_rank": "44",
+    "mastery": 2,
+    "learning_need_score": 88
+  },
+  {
+    "word": "下",
+    "pinyin": "xià",
+    "english_definition": "down",
+    "frequency_rank": "45",
+    "mastery": 2,
+    "learning_need_score": 90
+  },
+  {
+    "word": "太",
+    "pinyin": "tài",
+    "english_definition": "highest",
+    "frequency_rank": "46",
+    "mastery": 2,
+    "learning_need_score": 92
+  },
+  {
+    "word": "老师",
+    "pinyin": "lǎo shī",
+    "english_definition": "teacher",
+    "frequency_rank": "47",
+    "mastery": 2,
+    "learning_need_score": 94
+  },
+  {
+    "word": "学校",
+    "pinyin": "xué xiào",
+    "english_definition": "school",
+    "frequency_rank": "48",
+    "mastery": 2,
+    "learning_need_score": 96
+  },
+  {
+    "word": "家",
+    "pinyin": "jiā",
+    "english_definition": "home",
+    "frequency_rank": "49",
+    "mastery": 2,
+    "learning_need_score": 98
+  },
+  {
+    "word": "多",
+    "pinyin": "duō",
+    "english_definition": "many",
+    "frequency_rank": "50",
+    "mastery": 2,
+    "learning_need_score": 100
+  },
+  {
+    "word": "吃",
+    "pinyin": "chī",
+    "english_definition": "to eat",
+    "frequency_rank": "51",
+    "mastery": 2,
+    "learning_need_score": 102
+  },
+  {
+    "word": "电脑",
+    "pinyin": "diàn nǎo",
+    "english_definition": "computer",
+    "frequency_rank": "52",
+    "mastery": 2,
+    "learning_need_score": 104
+  },
+  {
+    "word": "吗",
+    "pinyin": "ma",
+    "english_definition": "(question tag)",
+    "frequency_rank": "53",
+    "mastery": 2,
+    "learning_need_score": 106
+  },
+  {
+    "word": "五",
+    "pinyin": "wǔ",
+    "english_definition": "five",
+    "frequency_rank": "54",
+    "mastery": 2,
+    "learning_need_score": 108
+  },
+  {
+    "word": "先生",
+    "pinyin": "xiān sheng",
+    "english_definition": "teacher",
+    "frequency_rank": "55",
+    "mastery": 2,
+    "learning_need_score": 110
+  },
+  {
+    "word": "岁",
+    "pinyin": "suì",
+    "english_definition": "classifier for years (of age)",
+    "frequency_rank": "56",
+    "mastery": 2,
+    "learning_need_score": 112
+  },
+  {
+    "word": "请",
+    "pinyin": "qǐng",
+    "english_definition": "to ask",
+    "frequency_rank": "57",
+    "mastery": 2,
+    "learning_need_score": 114
+  },
+  {
+    "word": "月",
+    "pinyin": "yuè",
+    "english_definition": "moon",
+    "frequency_rank": "58",
+    "mastery": 2,
+    "learning_need_score": 116
+  },
+  {
+    "word": "今天",
+    "pinyin": "jīn tiān",
+    "english_definition": "today",
+    "frequency_rank": "59",
+    "mastery": 2,
+    "learning_need_score": 118
+  },
+  {
+    "word": "些",
+    "pinyin": "xiē",
+    "english_definition": "some",
+    "frequency_rank": "60",
+    "mastery": 2,
+    "learning_need_score": 120
+  },
+  {
+    "word": "喜欢",
+    "pinyin": "xǐ huan",
+    "english_definition": "to like",
+    "frequency_rank": "61",
+    "mastery": 2,
+    "learning_need_score": 122
+  },
+  {
+    "word": "没",
+    "pinyin": "méi",
+    "english_definition": "(negative prefix for verbs)",
+    "frequency_rank": "62",
+    "mastery": 2,
+    "learning_need_score": 124
+  },
+  {
+    "word": "怎么",
+    "pinyin": "zěn me",
+    "english_definition": "variant of 怎麼|怎么[zěn me]",
+    "frequency_rank": "63",
+    "mastery": 2,
+    "learning_need_score": 126
+  },
+  {
+    "word": "听",
+    "pinyin": "tīng",
+    "english_definition": "to listen",
+    "frequency_rank": "64",
+    "mastery": 2,
+    "learning_need_score": 128
+  },
+  {
+    "word": "朋友",
+    "pinyin": "péng you",
+    "english_definition": "friend",
+    "frequency_rank": "65",
+    "mastery": 2,
+    "learning_need_score": 130
+  },
+  {
+    "word": "六",
+    "pinyin": "liù",
+    "english_definition": "six",
+    "frequency_rank": "66",
+    "mastery": 2,
+    "learning_need_score": 132
+  },
+  {
+    "word": "钱",
+    "pinyin": "qián",
+    "english_definition": "coin",
+    "frequency_rank": "67",
+    "mastery": 2,
+    "learning_need_score": 134
+  },
+  {
+    "word": "点",
+    "pinyin": "diǎn",
+    "english_definition": "point",
+    "frequency_rank": "68",
+    "mastery": 2,
+    "learning_need_score": 136
+  },
+  {
+    "word": "十",
+    "pinyin": "shí",
+    "english_definition": "ten",
+    "frequency_rank": "69",
+    "mastery": 2,
+    "learning_need_score": 138
+  },
+  {
+    "word": "妈妈",
+    "pinyin": "mā ma",
+    "english_definition": "mama",
+    "frequency_rank": "70",
+    "mastery": 2,
+    "learning_need_score": 140
+  },
+  {
+    "word": "东西",
+    "pinyin": "dōng xi",
+    "english_definition": "thing",
+    "frequency_rank": "71",
+    "mastery": 2,
+    "learning_need_score": 142
+  },
+  {
+    "word": "明天",
+    "pinyin": "míng tiān",
+    "english_definition": "tomorrow",
+    "frequency_rank": "72",
+    "mastery": 2,
+    "learning_need_score": 144
+  },
+  {
+    "word": "学习",
+    "pinyin": "xué xí",
+    "english_definition": "to learn",
+    "frequency_rank": "73",
+    "mastery": 2,
+    "learning_need_score": 146
+  },
+  {
+    "word": "谁",
+    "pinyin": "shéi",
+    "english_definition": "who",
+    "frequency_rank": "74",
+    "mastery": 2,
+    "learning_need_score": 148
+  },
+  {
+    "word": "同学",
+    "pinyin": "tóng xué",
+    "english_definition": "to study at the same school",
+    "frequency_rank": "75",
+    "mastery": 2,
+    "learning_need_score": 150
+  },
+  {
+    "word": "书",
+    "pinyin": "shū",
+    "english_definition": "book",
+    "frequency_rank": "76",
+    "mastery": 2,
+    "learning_need_score": 152
+  },
+  {
+    "word": "爱",
+    "pinyin": "ài",
+    "english_definition": "to love",
+    "frequency_rank": "77",
+    "mastery": 2,
+    "learning_need_score": 154
+  },
+  {
+    "word": "昨天",
+    "pinyin": "zuó tiān",
+    "english_definition": "yesterday",
+    "frequency_rank": "78",
+    "mastery": 2,
+    "learning_need_score": 156
+  },
+  {
+    "word": "水",
+    "pinyin": "shuǐ",
+    "english_definition": "water",
+    "frequency_rank": "79",
+    "mastery": 2,
+    "learning_need_score": 158
+  },
+  {
+    "word": "写",
+    "pinyin": "xiě",
+    "english_definition": "to write",
+    "frequency_rank": "80",
+    "mastery": 2,
+    "learning_need_score": 160
+  },
+  {
+    "word": "买",
+    "pinyin": "mǎi",
+    "english_definition": "to buy",
+    "frequency_rank": "81",
+    "mastery": 2,
+    "learning_need_score": 162
+  },
+  {
+    "word": "爸爸",
+    "pinyin": "bà ba",
+    "english_definition": "(informal) father",
+    "frequency_rank": "82",
+    "mastery": 2,
+    "learning_need_score": 164
+  },
+  {
+    "word": "七",
+    "pinyin": "qī",
+    "english_definition": "seven",
+    "frequency_rank": "83",
+    "mastery": 2,
+    "learning_need_score": 166
+  },
+  {
+    "word": "字",
+    "pinyin": "zì",
+    "english_definition": "letter",
+    "frequency_rank": "84",
+    "mastery": 2,
+    "learning_need_score": 168
+  },
+  {
+    "word": "坐",
+    "pinyin": "zuò",
+    "english_definition": "to sit",
+    "frequency_rank": "85",
+    "mastery": 2,
+    "learning_need_score": 170
+  },
+  {
+    "word": "块",
+    "pinyin": "kuài",
+    "english_definition": "lump (of earth)",
+    "frequency_rank": "86",
+    "mastery": 2,
+    "learning_need_score": 172
+  },
+  {
+    "word": "多少",
+    "pinyin": "duō shao",
+    "english_definition": "how much",
+    "frequency_rank": "87",
+    "mastery": 2,
+    "learning_need_score": 174
+  },
+  {
+    "word": "电影",
+    "pinyin": "diàn yǐng",
+    "english_definition": "movie",
+    "frequency_rank": "88",
+    "mastery": 2,
+    "learning_need_score": 176
+  },
+  {
+    "word": "开",
+    "pinyin": "kāi",
+    "english_definition": "to open",
+    "frequency_rank": "89",
+    "mastery": 2,
+    "learning_need_score": 178
+  },
+  {
+    "word": "住",
+    "pinyin": "zhù",
+    "english_definition": "to live",
+    "frequency_rank": "90",
+    "mastery": 2,
+    "learning_need_score": 180
+  },
+  {
+    "word": "医院",
+    "pinyin": "yī yuàn",
+    "english_definition": "hospital",
+    "frequency_rank": "91",
+    "mastery": 2,
+    "learning_need_score": 182
+  },
+  {
+    "word": "八",
+    "pinyin": "bā",
+    "english_definition": "eight",
+    "frequency_rank": "92",
+    "mastery": 2,
+    "learning_need_score": 184
+  },
+  {
+    "word": "电视",
+    "pinyin": "diàn shì",
+    "english_definition": "television",
+    "frequency_rank": "93",
+    "mastery": 2,
+    "learning_need_score": 186
+  },
+  {
+    "word": "喝",
+    "pinyin": "hē",
+    "english_definition": "to drink",
+    "frequency_rank": "94",
+    "mastery": 2,
+    "learning_need_score": 188
+  },
+  {
+    "word": "谢谢",
+    "pinyin": "xiè xie",
+    "english_definition": "to thank",
+    "frequency_rank": "95",
+    "mastery": 2,
+    "learning_need_score": 190
+  },
+  {
+    "word": "不客气",
+    "pinyin": "bù kè qi",
+    "english_definition": "you're welcome",
+    "frequency_rank": "96",
+    "mastery": 2,
+    "learning_need_score": 192
+  },
+  {
+    "word": "认识",
+    "pinyin": "rèn shi",
+    "english_definition": "to know",
+    "frequency_rank": "97",
+    "mastery": 2,
+    "learning_need_score": 194
+  },
+  {
+    "word": "少",
+    "pinyin": "shǎo",
+    "english_definition": "few",
+    "frequency_rank": "98",
+    "mastery": 2,
+    "learning_need_score": 196
+  },
+  {
+    "word": "北京",
+    "pinyin": "Běi jīng",
+    "english_definition": "Beijing",
+    "frequency_rank": "99",
+    "mastery": 2,
+    "learning_need_score": 198
+  },
+  {
+    "word": "小姐",
+    "pinyin": "xiǎo jie",
+    "english_definition": "young lady",
+    "frequency_rank": "100",
+    "mastery": 2,
+    "learning_need_score": 200
+  },
+  {
+    "word": "叫",
+    "pinyin": "jiào",
+    "english_definition": "to shout",
+    "frequency_rank": "101",
+    "mastery": 2,
+    "learning_need_score": 202
+  },
+  {
+    "word": "怎么样",
+    "pinyin": "zěn me yàng",
+    "english_definition": "how?",
+    "frequency_rank": "102",
+    "mastery": 2,
+    "learning_need_score": 204
+  },
+  {
+    "word": "高兴",
+    "pinyin": "gāo xìng",
+    "english_definition": "happy",
+    "frequency_rank": "103",
+    "mastery": 2,
+    "learning_need_score": 206
+  },
+  {
+    "word": "哪",
+    "pinyin": "nǎ",
+    "english_definition": "how",
+    "frequency_rank": "104",
+    "mastery": 2,
+    "learning_need_score": 208
+  },
+  {
+    "word": "茶",
+    "pinyin": "chá",
+    "english_definition": "tea",
+    "frequency_rank": "105",
+    "mastery": 2,
+    "learning_need_score": 210
+  },
+  {
+    "word": "儿子",
+    "pinyin": "ér zi",
+    "english_definition": "son",
+    "frequency_rank": "106",
+    "mastery": 2,
+    "learning_need_score": 212
+  },
+  {
+    "word": "分钟",
+    "pinyin": "fēn zhōng",
+    "english_definition": "minute",
+    "frequency_rank": "107",
+    "mastery": 2,
+    "learning_need_score": 214
+  },
+  {
+    "word": "读",
+    "pinyin": "dú",
+    "english_definition": "to read",
+    "frequency_rank": "108",
+    "mastery": 2,
+    "learning_need_score": 216
+  },
+  {
+    "word": "九",
+    "pinyin": "jiǔ",
+    "english_definition": "nine",
+    "frequency_rank": "109",
+    "mastery": 2,
+    "learning_need_score": 218
+  },
+  {
+    "word": "日",
+    "pinyin": "rì",
+    "english_definition": "sun",
+    "frequency_rank": "110",
+    "mastery": 2,
+    "learning_need_score": 220
+  },
+  {
+    "word": "看见",
+    "pinyin": "kàn jiàn",
+    "english_definition": "to see",
+    "frequency_rank": "111",
+    "mastery": 2,
+    "learning_need_score": 222
+  },
+  {
+    "word": "女儿",
+    "pinyin": "nǚ ér",
+    "english_definition": "daughter",
+    "frequency_rank": "112",
+    "mastery": 2,
+    "learning_need_score": 224
+  },
+  {
+    "word": "回",
+    "pinyin": "huí",
+    "english_definition": "to curve",
+    "frequency_rank": "113",
+    "mastery": 2,
+    "learning_need_score": 226
+  },
+  {
+    "word": "说话",
+    "pinyin": "shuō huà",
+    "english_definition": "to speak",
+    "frequency_rank": "114",
+    "mastery": 2,
+    "learning_need_score": 228
+  },
+  {
+    "word": "医生",
+    "pinyin": "yī shēng",
+    "english_definition": "doctor",
+    "frequency_rank": "115",
+    "mastery": 2,
+    "learning_need_score": 230
+  },
+  {
+    "word": "衣服",
+    "pinyin": "yī fu",
+    "english_definition": "clothes",
+    "frequency_rank": "116",
+    "mastery": 2,
+    "learning_need_score": 232
+  },
+  {
+    "word": "名字",
+    "pinyin": "míng zi",
+    "english_definition": "name (of a person or thing)",
+    "frequency_rank": "117",
+    "mastery": 2,
+    "learning_need_score": 234
+  },
+  {
+    "word": "上午",
+    "pinyin": "shàng wǔ",
+    "english_definition": "morning",
+    "frequency_rank": "118",
+    "mastery": 2,
+    "learning_need_score": 236
+  },
+  {
+    "word": "飞机",
+    "pinyin": "fēi jī",
+    "english_definition": "airplane",
+    "frequency_rank": "119",
+    "mastery": 2,
+    "learning_need_score": 238
+  },
+  {
+    "word": "下午",
+    "pinyin": "xià wǔ",
+    "english_definition": "afternoon",
+    "frequency_rank": "120",
+    "mastery": 2,
+    "learning_need_score": 240
+  },
+  {
+    "word": "前面",
+    "pinyin": "qián miàn",
+    "english_definition": "ahead",
+    "frequency_rank": "121",
+    "mastery": 2,
+    "learning_need_score": 242
+  },
+  {
+    "word": "中午",
+    "pinyin": "zhōng wǔ",
+    "english_definition": "noon",
+    "frequency_rank": "122",
+    "mastery": 2,
+    "learning_need_score": 244
+  },
+  {
+    "word": "狗",
+    "pinyin": "gǒu",
+    "english_definition": "dog",
+    "frequency_rank": "123",
+    "mastery": 2,
+    "learning_need_score": 246
+  },
+  {
+    "word": "漂亮",
+    "pinyin": "piào liang",
+    "english_definition": "pretty",
+    "frequency_rank": "124",
+    "mastery": 2,
+    "learning_need_score": 248
+  },
+  {
+    "word": "菜",
+    "pinyin": "cài",
+    "english_definition": "dish (type of food)",
+    "frequency_rank": "125",
+    "mastery": 2,
+    "learning_need_score": 250
+  },
+  {
+    "word": "后面",
+    "pinyin": "hòu mian",
+    "english_definition": "rear",
+    "frequency_rank": "126",
+    "mastery": 2,
+    "learning_need_score": 252
+  },
+  {
+    "word": "热",
+    "pinyin": "rè",
+    "english_definition": "to warm up",
+    "frequency_rank": "127",
+    "mastery": 2,
+    "learning_need_score": 254
+  },
+  {
+    "word": "星期",
+    "pinyin": "xīng qī",
+    "english_definition": "week",
+    "frequency_rank": "128",
+    "mastery": 2,
+    "learning_need_score": 256
+  },
+  {
+    "word": "商店",
+    "pinyin": "shāng diàn",
+    "english_definition": "store",
+    "frequency_rank": "129",
+    "mastery": 2,
+    "learning_need_score": 258
+  },
+  {
+    "word": "冷",
+    "pinyin": "lěng",
+    "english_definition": "cold",
+    "frequency_rank": "130",
+    "mastery": 2,
+    "learning_need_score": 260
+  },
+  {
+    "word": "天气",
+    "pinyin": "tiān qì",
+    "english_definition": "weather",
+    "frequency_rank": "131",
+    "mastery": 2,
+    "learning_need_score": 262
+  },
+  {
+    "word": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "english_definition": "to make a telephone call",
+    "frequency_rank": "132",
+    "mastery": 2,
+    "learning_need_score": 264
+  },
+  {
+    "word": "出租车",
+    "pinyin": "chū zū chē",
+    "english_definition": "taxi",
+    "frequency_rank": "133",
+    "mastery": 2,
+    "learning_need_score": 266
+  },
+  {
+    "word": "睡觉",
+    "pinyin": "shuì jiào",
+    "english_definition": "to go to bed",
+    "frequency_rank": "134",
+    "mastery": 2,
+    "learning_need_score": 268
+  },
+  {
+    "word": "零",
+    "pinyin": "líng",
+    "english_definition": "zero",
+    "frequency_rank": "135",
+    "mastery": 2,
+    "learning_need_score": 270
+  },
+  {
+    "word": "对不起",
+    "pinyin": "duì bu qǐ",
+    "english_definition": "unworthy",
+    "frequency_rank": "136",
+    "mastery": 2,
+    "learning_need_score": 272
+  },
+  {
+    "word": "水果",
+    "pinyin": "shuǐ guǒ",
+    "english_definition": "fruit",
+    "frequency_rank": "137",
+    "mastery": 2,
+    "learning_need_score": 274
+  },
+  {
+    "word": "米饭",
+    "pinyin": "mǐ fàn",
+    "english_definition": "(cooked) rice",
+    "frequency_rank": "138",
+    "mastery": 2,
+    "learning_need_score": 276
+  },
+  {
+    "word": "猫",
+    "pinyin": "māo",
+    "english_definition": "cat",
+    "frequency_rank": "139",
+    "mastery": 2,
+    "learning_need_score": 278
+  },
+  {
+    "word": "下雨",
+    "pinyin": "xià yǔ",
+    "english_definition": "to rain",
+    "frequency_rank": "140",
+    "mastery": 2,
+    "learning_need_score": 280
+  },
+  {
+    "word": "饭馆",
+    "pinyin": "fàn guǎn",
+    "english_definition": "restaurant",
+    "frequency_rank": "141",
+    "mastery": 2,
+    "learning_need_score": 282
+  },
+  {
+    "word": "没关系",
+    "pinyin": "méi guān xi",
+    "english_definition": "it doesn't matter",
+    "frequency_rank": "142",
+    "mastery": 2,
+    "learning_need_score": 284
+  },
+  {
+    "word": "再见",
+    "pinyin": "zài jiàn",
+    "english_definition": "goodbye",
+    "frequency_rank": "143",
+    "mastery": 2,
+    "learning_need_score": 286
+  },
+  {
+    "word": "椅子",
+    "pinyin": "yǐ zi",
+    "english_definition": "chair",
+    "frequency_rank": "144",
+    "mastery": 2,
+    "learning_need_score": 288
+  },
+  {
+    "word": "苹果",
+    "pinyin": "píng guǒ",
+    "english_definition": "apple",
+    "frequency_rank": "145",
+    "mastery": 2,
+    "learning_need_score": 290
+  },
+  {
+    "word": "桌子",
+    "pinyin": "zhuō zi",
+    "english_definition": "table",
+    "frequency_rank": "146",
+    "mastery": 2,
+    "learning_need_score": 292
+  },
+  {
+    "word": "火车站",
+    "pinyin": "huǒ chē zhàn",
+    "english_definition": "train station",
+    "frequency_rank": "147",
+    "mastery": 2,
+    "learning_need_score": 294
+  },
+  {
+    "word": "杯子",
+    "pinyin": "bēi zi",
+    "english_definition": "cup",
+    "frequency_rank": "148",
+    "mastery": 2,
+    "learning_need_score": 296
+  },
+  {
+    "word": "喂",
+    "pinyin": "wèi",
+    "english_definition": "to feed",
+    "frequency_rank": "149",
+    "mastery": 2,
+    "learning_need_score": 298
+  },
+  {
+    "word": "汉语",
+    "pinyin": "Hàn yǔ",
+    "english_definition": "Chinese language",
+    "frequency_rank": "150",
+    "mastery": 2,
+    "learning_need_score": 300
+  }
+]
