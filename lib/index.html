@@ -30,10 +30,16 @@
             <div id="sentence">
                 <p>Translate this sentence: <span id="sentenceText"</p>
             </div>
+
+
             <textarea id="input" placeholder="Your translation"></textarea>
             <button onclick="submit()">Submit</button>
-            <div id="results"></div>
-
+            <div id="resultBubble" style="display:none;">          
+                <h3>Results</h3>
+                <table id="resultTable"></table>
+                <div id="commentarySection"></div>
+            </div> 
+            
             <script>
                 async function getSentence() {
                     const res = await fetch('http://localhost:3000/sentence');
@@ -49,9 +55,25 @@
                         body: JSON.stringify({userAttempt})
                     });
                     const data = await res.json();
-                    document.getElementById('results').innerText = JSON.stringify(data, null,2);
+                    document.getElementById('resultBubble').style.display = 'block';
+                
+                        let tableHTML = '';
+                        data.words.forEach(item => {
+                            tableHTML += `
+                                <tr>
+                                    <td>${item.word}: </td>
+                                    <td>${item.grade.toFixed(2)}</td>
+                                </tr>
+                            `;
+                        });
+                    document.getElementById('resultTable').innerHTML = tableHTML;
+
+                    document.getElementById('commentarySection').innerText = data.commentary;
                 }
+
+
                 getSentence();
+
             </script>
         </body>
     </head>

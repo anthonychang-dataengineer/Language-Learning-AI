@@ -76,8 +76,19 @@ E.g.
 More than just sentences, there can be whole stories or paragraphs containing multiple words
 (How does it decide what words?)
 
+## To work On
+The prompts keep giving the same sentences when given the words. I need to make it so it varis it up lesson to lesson
+
 ## TO Work On
 I DON'T think the lessons should be broken up into a discrete set of words, like Duolingo. It should be rolling.
 
 ## TO Work On
-Rank the words not just on frequency but on # times they show up, compared to each other. This might be able to be used for more accurate "determine how often you need to drill this". I dont know how yet
+Rank the words not just on frequency but on # times they show up, compared to each other. This might be able to be used for more accurate "determine how often you need to drill this". 
+Actually, it can be used for things like tiebreakers on which words to priortiize next.
+For example, look at these 2 words:
+Word A is mastery 60 and # times showed up is 100
+Word B is mastery 0 and # times show up is 99
+They are basically the same in importance, and you're almost there with Word A.
+So the app would priortize getting you to start learning Word B
+For now I'll probably just use freency rank to prioritize until I find # times showed up
+And for now disregard teaching_value calculation
