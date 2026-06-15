@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Translation Practice</title>
+        <style>
+             body {
+                font-family: Arial, sans-serif;
+                max-width: 600px;
+                margin: 50px auto;
+                padding: 20px;
+            }
+            textarea {
+                width: 100%;
+                height: 50px;
+                font-size: 16px;
+                padding: 10px;
+                border: 1px solid #ccc;
+            }
+            button {
+                padding: 10px 20px;
+                font-size: 16px;
+                cursor: pointer;
+            }
+            #results {
+                white-space: pre-wrap;
+                background-color: #f0f0f0;
+            }
+        </style>
+        <body>
+            <div id="sentence">
+                <p>Translate this sentence: <span id="sentenceText"</p>
+            </div>
+            <textarea id="input" placeholder="Your translation"></textarea>
+            <button onclick="submit()">Submit</button>
+            <div id="results"></div>
+
+            <script>
+                async function getSentence() {
+                    const res = await fetch('http://localhost:3000/sentence');
+                    const data = await res.json();
+                    document.getElementById('sentenceText').innerText = data.sentence;
+                }
+
+                async function submit() {
+                    const userAttempt = document.getElementById('input').value;
+                    const res = await fetch('http://localhost:3000/grade', {
+                        method: 'POST',
+                        headers: {'Content-Type': 'application/json'},
+                        body: JSON.stringify({userAttempt})
+                    });
+                    const data = await res.json();
+                    document.getElementById('results').innerText = JSON.stringify(data, null,2);
+                }
+                getSentence();
+            </script>
+        </body>
+    </head>
+</html>
