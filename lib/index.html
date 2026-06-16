@@ -26,25 +26,40 @@
                 background-color: #f0f0f0;
             }
         </style>
+    </head>
         <body>
             <div id="sentence">
-                <p>Translate this sentence: <span id="sentenceText"</p>
+                <p>Translate this sentence:</p>
+                <p><span id="sentenceText"></span></p>
+                <p><span id="sentencePinyin"></span></p>
             </div>
 
 
             <textarea id="input" placeholder="Your translation"></textarea>
-            <button onclick="submit()">Submit</button>
+            <button id="submitButton" onclick="submit()">Submit</button>
             <div id="resultBubble" style="display:none;">          
                 <h3>Results</h3>
                 <table id="resultTable"></table>
                 <div id="commentarySection"></div>
+                <button onclick="nextLesson()">Next Lesson</button>
             </div> 
             
             <script>
                 async function getSentence() {
                     const res = await fetch('http://localhost:3000/sentence');
                     const data = await res.json();
-                    document.getElementById('sentenceText').innerText = data.sentence;
+                    displaySentence(data);
+   
+                }
+
+                function displaySentence(sentenceData){
+                    document.getElementById('sentenceText').innerText = sentenceData.sentence;
+                    document.getElementById('sentencePinyin').innerText = sentenceData.pinyin;
+                    document.getElementById('input').value = '';//resets input box. redundant for first time, but its needed for second iteration
+                    document.getElementById('resultBubble').style.display = 'none';//resets result bubble display to none. 
+                    document.getElementById('submitButton').disabled = false;
+
+
                 }
 
                 async function submit() {
@@ -58,7 +73,7 @@
                     document.getElementById('resultBubble').style.display = 'block';
                 
                         let tableHTML = '';
-                        data.words.forEach(item => {
+                        data.wordItems.forEach(item => {
                             tableHTML += `
                                 <tr>
                                     <td>${item.word}: </td>
@@ -67,14 +82,20 @@
                             `;
                         });
                     document.getElementById('resultTable').innerHTML = tableHTML;
-
                     document.getElementById('commentarySection').innerText = data.commentary;
+                    document.getElementById('submitButton').disabled = true;//turns Submit button unusable
+                    // Store the next sentence data for when they click "Next Lesson"
+                    window.nextSentenceData = data.nextSentence;//remember, the data thats returned includes words, commentary AND next sentence
+
                 }
 
-
+                async function nextLesson(){//when you click this, it calls the displaySentence function and then input resets
+                    //displaySentence(window.nextSentenceData)//click this and it should just trigger generate new sentence again?
+                    getSentence()
+                }
                 getSentence();
 
             </script>
         </body>
-    </head>
+
 </html>
