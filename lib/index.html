@@ -28,7 +28,9 @@
         </style>
     </head>
         <body>
+
             <div id="sentence">
+                <p>Learning Word(s):<span id="stretchWords"></span></p>
                 <p>Translate this sentence:</p>
                 <p><span id="sentenceText"></span></p>
                 <p><span id="sentencePinyin"></span></p>
@@ -58,6 +60,9 @@
                     document.getElementById('input').value = '';//resets input box. redundant for first time, but its needed for second iteration
                     document.getElementById('resultBubble').style.display = 'none';//resets result bubble display to none. 
                     document.getElementById('submitButton').disabled = false;
+
+                    const stretchWordsRow = `<tr><td>${sentenceData.stretchWords.map(item => item.word).join(", ")}</td></tr>`;//displays the stretch word(s)
+                    document.getElementById('stretchWords').innerHTML = stretchWordsRow;
 
 
                 }

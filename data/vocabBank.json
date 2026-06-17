@@ -13,9 +13,9 @@
     "pinyin": "zài",
     "english_definition": "(located) at",
     "frequency_rank": "2",
-    "mastery": 78.5673532416,
+    "mastery": 82.85388259328,
     "hsk_level": "hsk1",
-    "teaching_value": 10.716323379199999
+    "teaching_value": 8.573058703359997
   },
   {
     "word": "是",
@@ -31,18 +31,18 @@
     "pinyin": "yǒu",
     "english_definition": "to have",
     "frequency_rank": "4",
-    "mastery": 92.809488384,
+    "mastery": 94.2475907072,
     "hsk_level": "hsk1",
-    "teaching_value": 1.7976279039999987
+    "teaching_value": 1.438102323199999
   },
   {
     "word": "个",
     "pinyin": "gè",
     "english_definition": "variant of 個|个[gè]",
     "frequency_rank": "5",
-    "mastery": 80.8,
+    "mastery": 84.64,
     "hsk_level": "hsk1",
-    "teaching_value": 3.8400000000000007
+    "teaching_value": 3.072
   },
   {
     "word": "我",
@@ -76,9 +76,9 @@
     "pinyin": "tā",
     "english_definition": "he or him",
     "frequency_rank": "9",
-    "mastery": 76,
+    "mastery": 80.8,
     "hsk_level": "hsk1",
-    "teaching_value": 2.6666666666666665
+    "teaching_value": 2.1333333333333337
   },
   {
     "word": "人",
@@ -112,18 +112,18 @@
     "pinyin": "wǒ men",
     "english_definition": "we",
     "frequency_rank": "13",
-    "mastery": 76,
+    "mastery": 78.8,
     "hsk_level": "hsk1",
-    "teaching_value": 1.8461538461538463
+    "teaching_value": 1.630769230769231
   },
   {
     "word": "了",
     "pinyin": "le",
     "english_definition": "(modal particle intensifying preceding clause)",
     "frequency_rank": "14",
-    "mastery": 75,
+    "mastery": 74.2,
     "hsk_level": "hsk1",
-    "teaching_value": 1.7857142857142856
+    "teaching_value": 1.8428571428571425
   },
   {
     "word": "会",
@@ -193,9 +193,9 @@
     "pinyin": "xiàn zài",
     "english_definition": "now",
     "frequency_rank": "22",
-    "mastery": 76,
+    "mastery": 80.8,
     "hsk_level": "hsk1",
-    "teaching_value": 1.0909090909090908
+    "teaching_value": 0.8727272727272729
   },
   {
     "word": "那",
@@ -238,9 +238,9 @@
     "pinyin": "hǎo",
     "english_definition": "good",
     "frequency_rank": "27",
-    "mastery": 82.0202368,
+    "mastery": 81.458617856,
     "hsk_level": "hsk1",
-    "teaching_value": 0.6659171555555553
+    "teaching_value": 0.686717857185185
   },
   {
     "word": "三",
@@ -283,9 +283,9 @@
     "pinyin": "qù",
     "english_definition": "to go",
     "frequency_rank": "32",
-    "mastery": 87.5616210944,
+    "mastery": 87.356691406848,
     "hsk_level": "hsk1",
-    "teaching_value": 0.3886993408000001
+    "teaching_value": 0.395103393536
   },
   {
     "word": "呢",
@@ -301,9 +301,9 @@
     "pinyin": "xué sheng",
     "english_definition": "student",
     "frequency_rank": "34",
-    "mastery": 76,
+    "mastery": 80.8,
     "hsk_level": "hsk1",
-    "teaching_value": 0.7058823529411764
+    "teaching_value": 0.5647058823529413
   },
   {
     "word": "看",
@@ -337,9 +337,9 @@
     "pinyin": "lǐ",
     "english_definition": "li (Chinese mile)",
     "frequency_rank": "38",
-    "mastery": 78.44534784,
+    "mastery": 82.756278272,
     "hsk_level": "hsk1",
-    "teaching_value": 0.5672276884210526
+    "teaching_value": 0.453782150736842
   },
   {
     "word": "时候",
@@ -427,9 +427,9 @@
     "pinyin": "xué xiào",
     "english_definition": "school",
     "frequency_rank": "48",
-    "mastery": 74.16959999999999,
+    "mastery": 79.33568,
     "hsk_level": "hsk1",
-    "teaching_value": 0.5381333333333336
+    "teaching_value": 0.4305066666666667
   },
   {
     "word": "家",
@@ -652,9 +652,9 @@
     "pinyin": "xué xí",
     "english_definition": "to learn",
     "frequency_rank": "73",
-    "mastery": 76,
+    "mastery": 81.64,
     "hsk_level": "hsk1",
-    "teaching_value": 0.3287671232876712
+    "teaching_value": 0.25150684931506845
   },
   {
     "word": "谁",
@@ -967,9 +967,9 @@
     "pinyin": "dú",
     "english_definition": "to read",
     "frequency_rank": "108",
-    "mastery": 70,
+    "mastery": 72,
     "hsk_level": "hsk1",
-    "teaching_value": 0.2777777777777778
+    "teaching_value": 0.25925925925925924
   },
   {
     "word": "九",
@@ -1363,9 +1363,9 @@
     "pinyin": "jiù",
     "english_definition": "at once",
     "frequency_rank": 152,
-    "mastery": 32.6,
+    "mastery": 43.08,
     "hsk_level": "hsk2",
-    "teaching_value": 0.44342105263157894
+    "teaching_value": 0.3744736842105263
   },
   {
     "word": "要",
@@ -1417,27 +1417,27 @@
     "pinyin": "zuì",
     "english_definition": "most",
     "frequency_rank": 158,
-    "mastery": 43.424,
+    "mastery": 46.7392,
     "hsk_level": "hsk2",
-    "teaching_value": 0.3580759493670886
+    "teaching_value": 0.33709367088607595
   },
   {
     "word": "为",
     "pinyin": "wèi",
     "english_definition": "variant of 為|为",
     "frequency_rank": 159,
-    "mastery": 19,
+    "mastery": 29.200000000000003,
     "hsk_level": "hsk2",
-    "teaching_value": 0.5094339622641509
+    "teaching_value": 0.44528301886792454
   },
   {
     "word": "两",
     "pinyin": "liǎng",
     "english_definition": "both",
     "frequency_rank": 160,
-    "mastery": 35.2,
+    "mastery": 48.160000000000004,
     "hsk_level": "hsk2",
-    "teaching_value": 0.405
+    "teaching_value": 0.324
   },
   {
     "word": "因为",
